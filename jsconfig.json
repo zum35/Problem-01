@@ -1,0 +1,9 @@
+
+{
+  "compilerOptions": {
+    "baseUrl": ".",  // Bu satır eklenmeli
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
